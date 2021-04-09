@@ -1,3 +1,3 @@
 # Java-Bank
 
-# An extension of the banking practice by adding a rudimentary UI with JFrame.
+An extension of the banking practice by adding a rudimentary UI with JFrame.
